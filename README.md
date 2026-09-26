@@ -48,7 +48,7 @@ A responsive world clock dashboard built with React, featuring live analog and d
 ## Screenshots
 
 ![image alt](https://github.com/Atharva212428/real-time-clock-react-main/blob/b39f21a32feed2b9a9e8e3f4084222c2ca1ab110/WhatsApp%20Image%202026-09-26%20at%2014.46.18.jpeg)
-![image alt]()
+![image alt](https://github.com/Atharva212428/real-time-clock-react-main/blob/eeb10d9d1edd58cd495437219c22cd074ef4acbd/WhatsApp%20Image%202026-09-26%20at%2014.46.20.jpeg)
 ## Future Improvements
 
 - Allow users to add/remove custom cities from the dashboard
